@@ -47,8 +47,10 @@
 </div>
 
 <br />
+<br />
 
-<div align="center">
- [![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ths04021)](https://solved.ac/ths04021)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagongjieun)](https://github.com/sagongjieun/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
