@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Goni%20Archive&fontSize=70)
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagongjieun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fking-goni.tistory.com&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=TISTORY&edge_flat=false"/></a>
-</div>
  
 <br />
  
@@ -44,28 +40,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <a href="https://github.com/sagongjieun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-</div>
-
-<br />
-<hr>
-
-<div align="center">
-  👩‍💻 solved.ac 👩‍💻  
-
-<br />
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ths04021)](https://solved.ac/ths04021)
-</div>
-
-<br />
-
-<div align="center">
- 😎 my stats 😎  
- 
-<br />
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagongjieun)](https://github.com/sagongjieun/github-readme-stats)
 </div>
 
 <br />
