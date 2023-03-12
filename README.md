@@ -1,7 +1,17 @@
+<div align="center">
+ <h2>About Me</h2>
+</div>
+
+<br />
+
+<p align="center">
+ Hello 🖐 I'm a steadily growing developer, Sagong Ji Eun.<br />
+</p>
+
 <br />
  
 <div align="center">
- <h2>💻 What I'm studying is... 💻</h2>
+ <h2>What I'm studying is</h2>
 </div>
 
 <br />
@@ -26,13 +36,14 @@
 <br />
 
 <div align="center">
- <h2>🔨 Tools 🔨</h2>
+ <h2>Tools that I can use</h2>
 </div>
 
 <br />
 
 <div align="center">
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
